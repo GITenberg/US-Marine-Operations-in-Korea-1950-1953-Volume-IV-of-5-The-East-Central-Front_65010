@@ -1,5 +1,8 @@
 _repo: US-Marine-Operations-in-Korea-1950-1953-Volume-IV-of-5-The-East-Central-Front_65010
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65010-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hicks, Norman W.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '53140'
     url: http://www.gutenberg.org/2009/agents/53140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65010#US-Marine-Operations-in-Korea-1950-1953-Volume-IV-of-5-The-East-Central-Front
 gutenberg_issued: '2021-04-06'
 gutenberg_type: Text
 identifiers:
